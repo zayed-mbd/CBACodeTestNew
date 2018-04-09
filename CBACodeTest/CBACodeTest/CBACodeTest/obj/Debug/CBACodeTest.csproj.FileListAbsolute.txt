@@ -1,0 +1,7 @@
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\bin\Debug\CBACodeTest.exe
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\bin\Debug\CBACodeTest.exe.config
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\obj\Debug\CBACodeTest.csproj.CoreCompileInputs.cache
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\obj\Debug\CBACodeTest.exe
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\obj\Debug\CBACodeTest.pdb
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\bin\Debug\CBACodeTest.pdb
+C:\Users\Zayed\Documents\Projects\CBACodeTest\CBACodeTest\obj\Debug\CBACodeTest.csprojResolveAssemblyReference.cache

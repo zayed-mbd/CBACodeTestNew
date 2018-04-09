@@ -1,0 +1,1 @@
+Count of sequence of words starting withs c and a - 2
